@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 """
+the blockchain.py and hash.py made this file
+obsolete, but i would be making some changes
+to improve the code
+
+
 Created on Wed Apr 25 11:51:07 2018
 
 @author: ABIOYE OYETUNJI
